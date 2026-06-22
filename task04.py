@@ -74,6 +74,5 @@ def main():
     print("✅ DONE! Check clean_data.json")
 
 
-# ✅ THIS LINE MUST BE EXACT (VERY IMPORTANT)
 if __name__ == "__main__":
     main()
